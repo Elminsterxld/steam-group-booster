@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "console": "^0.7.2",
+    "fs": "^0.0.1-security",
+    "playwright": "^1.24.2",
+    "puppeteer": "^15.5.0",
+    "puppeteer-extra": "^3.3.4"
+  }
+}
